@@ -1,0 +1,81 @@
+.bg-green{
+    background-color: #F0FFF0;
+}
+   
+.bg-light-gray{
+    background-color: #eeeeee;
+}
+.head-title{
+    font-weight: 900;
+}
+.gap{
+    margin-bottom: 50px;
+}
+
+.btn-school{
+    padding: 10px 25px;
+    border-radius: 25px;
+    background-color: green;
+}
+
+
+.right-content h1 {
+    font-weight: 900;
+    margin: 15px 0;
+}
+.right-content h1 span{
+    color: green;
+}
+
+
+.cat-item{
+    background-color: #F0FFF0;
+    padding: 40px 0;
+    border-radius: 10px;
+}
+.cat-item img{
+    margin-bottom: 30px;
+}
+#cart-item .active{
+    background-color: white;
+    box-shadow: 2px 2px 5px gray;
+}
+
+
+
+.course-item{
+    background-color: white;
+    padding: 20px;
+}
+.course-item h3{
+    margin-top: 30px;
+}
+
+.course-item .item-bottom{
+    margin-top: 50px;
+    font-weight: 500;
+}
+
+.testimonial-main-content{
+    padding: 0 100px;
+}
+.testimonial-main-content p{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+#footer .container{
+    padding: 50px 20px;
+}
+
+#footer{
+    padding-bottom: 20px;
+}
+
+#footer .nav-link{
+    padding: 0 3px;
+    color: gray;
+}
+#footer p{
+    color: gray;
+}
